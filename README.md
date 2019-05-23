@@ -4,5 +4,5 @@ A simple calculator made with reactjs
 
 ### `Sample`
 
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [http://julioantonini.com.br/projetos/reactCalc/](http://julioantonini.com.br/projetos/reactCalc/) to view this sample in the browser.
 
