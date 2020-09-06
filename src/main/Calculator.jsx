@@ -7,7 +7,6 @@ import Button from '../components/Button';
 import Display from '../components/Display';
 
 
-
 const initialState = {
   displayValue: '0',
   clearDisplay: false,
